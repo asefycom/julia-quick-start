@@ -1,16 +1,16 @@
 #Defining Variables
-
 my_name = "Mostafa Asefy"
 println(my_name)
 
 #Re-assigning Variables
-my_name = "Abbas"
+my_name = "Reza"
 println(my_name)
 
 #Numerical variables
 my_score = 19.5
 println(my_score)
 
+#Capital case and even stickers or UTF charecters are allowed
 my_Sco♠re = 19.5
 println(my_score)
 
