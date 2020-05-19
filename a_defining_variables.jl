@@ -1,3 +1,5 @@
+# For more details, please go to https://hamruyesh.com
+
 #Defining Variables
 my_name = "Mostafa Asefy"
 println(my_name)

@@ -1,3 +1,5 @@
+# For more details, please go to https://hamruyesh.com
+
 # Defining a simple string
 my_char = 'h'
 my_first_string = "hello"

@@ -1,5 +1,6 @@
-#Integers in default mode
+# For more details, please go to https://hamruyesh.com
 
+#Integers in default mode
 my_int_number = 42
 #or my_int_number = 42_000 is the same
 println(my_int_number)
