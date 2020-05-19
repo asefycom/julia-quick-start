@@ -1,4 +1,4 @@
-# For more details, please go to https://hamruyesh.com
+# For more details, please visit https://hamruyesh.com
 
 # Defining Constants
 const my_last_name = "Asefy"

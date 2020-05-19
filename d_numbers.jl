@@ -1,4 +1,4 @@
-# For more details, please go to https://hamruyesh.com
+# For more details, please visit https://hamruyesh.com
 
 #Integers in default mode
 my_int_number = 42
