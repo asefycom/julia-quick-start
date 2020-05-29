@@ -1,5 +1,6 @@
 # For more details, please visit https://hamruyesh.com
 
+# A simple If statement
 a = 15
 if a > 14
     println(a)
@@ -7,7 +8,7 @@ end
 println("")
 
 
-# If statement in run-time
+# Decision making
 array_1d = [15.5, 20, 19.5, 10, 9, 18.5, 7.75, 7.25]
 sum = 0
 
