@@ -12,10 +12,14 @@ end
 
 mean = Float16(sum/length(array_1d))
 println(mean)
+println("")
 
-# Nested iteration & ranges
-for i in 1:3
-    for j in 1:2
-        println("($i , $j)")
-    end
+# Iteration over a range
+for i in 1:4
+    println(i)
+end
+
+# Iteration over a tuple
+for i in (1,2,44, "asefy")
+    println(i)
 end
